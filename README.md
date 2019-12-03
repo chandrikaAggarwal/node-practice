@@ -9,8 +9,10 @@ For development, you only need node.js
 
 ## Install
 $ git clone https://github.com/chandrikaAggarwal/node-practice
-#$ cd node-practice
-#$ npm install
+#
+$ cd node-practice
+#
+$ npm install
 
 ## Run the project
 $ npm start

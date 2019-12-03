@@ -8,7 +8,7 @@ Sever connection and some useful commands
 For development, you only need node.js
 
 ## Install
-$ git clone https://github.com/chandrikaAggarwal/node-practice
+$ git clone https://github.com/chandrikaAggarwal/node-practice.git
 #
 $ cd node-practice
 #
